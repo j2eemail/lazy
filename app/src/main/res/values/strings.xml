@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lazy</string>
+
+    <string name="fragemnt1">fragemnt1</string>
+    <string name="fragemnt2">fragemnt2</string>
+    <string name="fragemnt3">fragemnt3</string>
+    <string name="fragemnt4">fragemnt4</string>
+    <string name="fragemnt5">fragemnt5</string>
+</resources>
